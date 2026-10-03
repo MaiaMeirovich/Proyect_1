@@ -3,7 +3,7 @@
   Project : 4-Channel Soil Moisture Monitor with Threshold Alerts
             (ESP32 DevKit V1, Arduino Framework, Adafruit IO)
   
-  Status  : FULLY CORRECTED & TESTED
+  Status  : in progress
   Author  : MaiaM
   Date    : 2026
   =======================================================================
